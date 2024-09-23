@@ -3,7 +3,7 @@
 ### Q1) What is ethics? Explain about various branches of ethics :-
 
 ---
-	--> **Ethics** is the study of what is right and wrong, guiding our behavior and decisions. It helps us understand how to act in various situations and examines moral principles that govern our conduct.
+	--> Ethics is the study of what is right and wrong, guiding our behavior and decisions. It helps us understand how to act in various situations and examines moral principles that govern our conduct.
 
 Here are the main branches of ethics:
 
